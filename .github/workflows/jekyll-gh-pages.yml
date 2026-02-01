@@ -1,7 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
-configure-pages@v5
-https://yusuf-ibrahim-o6kico5ym-ster91171-archs-projects.vercel.app
+name: Deploy Jekyll with GitHub defaults:
 
 on:
   # Runs on pushes targeting the default branch
